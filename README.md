@@ -1,4 +1,5 @@
-# Windows_Task_Scheduler_Procedure
+# Windows_Task_Scheduler_Procedure (Part II of automating files-backups with python)
+- This part of the tutorial presents how to initiate the python scripts with windows task scheduler.
 <p align="center">
 <h2>Step One:</h2>
 <p>Open the Task Scheduler</p>
